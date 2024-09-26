@@ -9,6 +9,4 @@ Welcome to my collection of Java practice projects! These are some fun little pr
 - Code snippets to help you understand Java better.
 - My personal journey in becoming a better coder!
 
-Feel free to explore, learn, and maybe even get inspired to create your own projects!
-
 ### Enjoy and happy coding! 🚀
